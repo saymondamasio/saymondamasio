@@ -1,34 +1,24 @@
- 
-### 👋 Olá, meu nome é Saymon Damásio. <br />Sempre buscando alcançar o **próximo nível**. 🚀️
-<a href="https://saymondamasio.github.io/">
+## Olá!! Eu sou Saymon Damásio
 
-
-### 🛠️ Tecnologias
-#### 😎️ Tenho experiência
-  - [Javascript](https://www.javascript.com/)
-  - [Typescript](https://www.typescriptlang.org/)
-  - [Html]()
-  - [Css]()
-  - [NodeJS](https://nodejs.org/en/)
-  - [ReactJS](https://pt-br.reactjs.org/)
-  - [React Native](https://reactnative.dev/)
-  - [Postgresql](https://www.postgresql.org/)
-  - [MySql](https://www.mysql.com/)
-  - [MongoDB](https://www.mongodb.com/)
+ <div>
+  <a href="https://github.com/saymondamasio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saymondamasio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymondamasio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   
- #### 📖️ Estou estudando
-  - [Python](https://www.python.org/)
-  - [Typescript](https://www.typescriptlang.org/)
-  - [SCSS](https://sass-lang.com/)
-  - [NextJS](https://nextjs.org/)
-
- #### 🤔️ Tenho interesse
-  - [VueJS](https://vuejs.org/)
-  - [Elixir](https://elixir-lang.org/)
-  - [Php](https://www.php.net/)
-  
- ### 💻️ Ambiente de desenvolvimento
+  ##
  
-  - __Sistema operacional__: [Linux Mint](https://linuxmint.com/)
-  - __Sistema operacional__: [Windows 10](https://www.microsoft.com/pt-br/windows/)
-  - __Editor de código__: [Visual Studio Code](https://code.visualstudio.com/)
+<div> 
+  <a href = "mailto:saymon.damasio95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/saymondamasio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/saymondamasio/saymondamasio/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
