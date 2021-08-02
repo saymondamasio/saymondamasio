@@ -21,4 +21,6 @@
  
   ![Snake animation](https://github.com/saymondamasio/saymondamasio/blob/output/github-contribution-grid-snake.svg)
  
+ 
+ <img align="center" alt="views" src="https://komarev.com/ghpvc/?username=saymondamasio&color=green"/>
 </div>
