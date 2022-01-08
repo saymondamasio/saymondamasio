@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/saymondamasio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saymondamasio&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymondamasio&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saymondamasio&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymondamasio&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,5 @@
   <a href = "mailto:saymon.damasio95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saymondamasio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <img align="center" alt="views" src="https://komarev.com/ghpvc/?username=saymondamasio&color=green"/>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saymondamasio)](https://github.com/anuraghazra/github-readme-stats)
+ <img alt="views" src="https://komarev.com/ghpvc/?username=saymondamasio&color=green"/>
 </div>
