@@ -20,4 +20,6 @@
   <a href="https://www.linkedin.com/in/saymondamasio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <img align="center" alt="views" src="https://komarev.com/ghpvc/?username=saymondamasio&color=green"/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saymondamasio)](https://github.com/anuraghazra/github-readme-stats)
 </div>
