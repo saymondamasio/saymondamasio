@@ -8,8 +8,6 @@
   Minha jornada na area de programação começou em 2012, quando comecei o curso de técnico de informática, foi me apresentado o Java e foi nessa linguagem que aprendi a logica de programação, recentemente por meio da Rocketseat aprendi Javascript e amei todo esse ecossistema em volta da linguagem e desde então não parei mais de aprender as diversas tecnologias que são feitas por meio dessa linguagem.
 </p>
 
-<br />
-
 ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -25,8 +23,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br />
 
 ## Github Analitcs
 
