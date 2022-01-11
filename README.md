@@ -28,6 +28,6 @@
 
 <p align="center" widht='100%'>
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=saymondamasio&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img width="530em" src="http://github-readme-streak-stats.herokuapp.com?user=saymondamasio&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymondamasio&layout=compact&theme=dracula"/>
 </p>
-
