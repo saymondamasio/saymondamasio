@@ -1,5 +1,5 @@
 # 💫About Me :
-Olá, sou Saymon Damásio, sou desenvolvedor full stack com o foco em backend. Atualmente estou pesquisando oportunidades de emprego na área de informática, enquanto isso faço alguns freelas no Workana.
+Olá, sou Saymon Damásio, sou desenvolvedor full stack com o foco em frontend. Atualmente estou pesquisando oportunidades de emprego na área de informática, enquanto isso faço alguns freelas no Workana.
 
 Minha jornada na area de programação começou em 2012, quando comecei o curso de técnico de informática, foi me apresentado o Java e foi nessa linguagem que aprendi a logica de programação, recentemente por meio da Rocketseat aprendi Javascript e amei todo esse ecossistema em volta da linguagem e desde então não parei mais de aprender as diversas tecnologias que são feitas por meio dessa linguagem.
 
